@@ -108,6 +108,7 @@ To track the request ids I have created a new package called *appcontext*. Using
 This is a snipped of the package appcontext. This packace is in charge to provide the necessary context for the application plus logging. 
 The full package can be found in the repository [github.com/bboortz/goborg/pkg/appcontext](https://github.com/bboortz/goborg/tree/master/pkg/appcontext)
 
+```
 package appcontext
 
 import (
