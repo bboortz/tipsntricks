@@ -153,7 +153,7 @@ func Logger(ctx context.Context) *zap.Logger {
 You will also need a middleware like this in order to assign centrally the request id. Our request id is just a random generated uuid.
 
 ```
-package server
+package main
 
 import (
         "context"
