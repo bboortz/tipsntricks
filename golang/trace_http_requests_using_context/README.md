@@ -254,7 +254,6 @@ Please also watch the source code in my tipsntricks repository on github: [https
 
 
 
-```
 # Links
 
 These links if have used for my own studies:
