@@ -250,7 +250,7 @@ We made some learnings:
 * We have learned how to use the *context* package in golang.
 * We have learned how to track request ids from incoming request in your methods and can use this information for tracing issues in a bigger code base.
 
-Please also watch the source code in my tipsntricks repository on github: [https://github.com/bboortz/tipsntricks/blob/master/go/trace_http_requests_using_context].
+Please also watch the source code in my tipsntricks repository on github: [https://github.com/bboortz/tipsntricks/tree/master/golang/trace_http_requests_using_context](https://github.com/bboortz/tipsntricks/tree/master/golang/trace_http_requests_using_context) 
 
 
 
